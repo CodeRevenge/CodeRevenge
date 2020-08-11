@@ -2,7 +2,7 @@
 
 My name is César Escobar.
 
-- 🚀 I am currently in mylast semester of the Computer Engineering programat the Universidad de Guadalajara.I am looking to start my professional career as a software developer, so that is why I have taken online courses and personal projects, which, together with my university career have given me the basic knowledge that is currently required in the industry.
+- 🚀 I am currently in my last semester of the Computer Engineering program at the Universidad de Guadalajara. I am looking to start my professional career as a software developer, so that is why I have taken online courses and personal projects, which, together with my university career have given me the basic knowledge that is currently required in the industry.
 
 - 🚀 My greatest strengths lie in the taste for technology and the satisfaction in solving problems with software, I am also a very curious person who likes to investigate everything that crosses my mind, which has helped me to be self-taught.
 

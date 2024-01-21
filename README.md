@@ -4,7 +4,7 @@ My name is César Escobar.
 
 Computer Engineer with three years of experience in web development, specializing in technologies such as NestJS and Angular. Additionally, I have one year of experience in AWS, enabling me to design and deploy cloud-based applications efficiently. My focus is on creating web solutions with elegant design and high performance. I am passionate about staying updated with the latest trends in software development and collaborating effectively in cross-functional teams to achieve project excellence.
 
-- 🔭 I am currently working at YoContigo IT as Fullstack developer.
+- 🔭 I am currently working at GlobalLogic as Backend developer.
 
 - 🚀 I am a graduate of Computer Engineering from the University of Guadalajara.
 
